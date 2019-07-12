@@ -8,6 +8,8 @@ public class Program {
 
 		System.out.println("WhattaGit!");
 		
+		System.out.println("Git-a-chow!");
+		
 	}
 
 }
